@@ -1,0 +1,43 @@
+{
+    "name": "Demo test app",
+    "short_name": "myApp",
+    "start_url": "/index.html",
+    "icons": [
+        {
+            "src": "/images/ic_launcher1.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/images/ic_launcher1.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/images/ic_launcher2.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/images/ic_launcher3.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/images/ic_launcher4.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/images/ic_launcher5.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "display": "standalone",
+    "scope": ".",
+    "orientation": "any",
+    "backgroung_color": "#e8023f",
+    "theme_color": "#1b26c6",
+    "description": "This is my sample app for home icon"
+}
