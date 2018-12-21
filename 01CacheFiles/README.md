@@ -1,8 +1,5 @@
-# Resources
-
+###### References:
 - https://developers.google.com/web/tools/chrome-devtools/progressive-web-apps#caches
 
-
-# Result
-
+###### Result:
 ![alt tag](output.png)
