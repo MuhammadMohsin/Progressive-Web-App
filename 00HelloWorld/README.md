@@ -1,2 +1,2 @@
-###### Result:
+##### Result:
 ![alt tag](output.png)
